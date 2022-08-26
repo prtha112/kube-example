@@ -1,2 +1,2 @@
 # kube-example
-kubernetest and helm example
+kubernetes and helm example
